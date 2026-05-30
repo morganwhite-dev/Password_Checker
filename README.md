@@ -1,5 +1,3 @@
-A Password Strength Checker
-
 # Password Strength Checker
 
 A command-line Python program that checks whether a password meets a set of basic security requirements.
