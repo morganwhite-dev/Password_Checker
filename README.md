@@ -6,7 +6,7 @@ A command-line Python program that checks whether a password meets a set of basi
 
 I built this as part of preparing to apply to Georgia State University's MSIS program, with a planned concentration in Cybersecurity. It's part of a larger effort to build technical projects in areas I want to study further.
 
-The goal was to take concepts from LinkedIn Learning's *Python Essential Training* — variables, loops, conditionals, and boolean logic — and apply them to a problem with real security relevance, while keeping the scope small enough that I could fully understand and explain every line.
+The goal was to take concepts from LinkedIn Learning's *Python Essential Training* — variables, loops, conditionals, and boolean logic — and apply them to a problem with real security relevance, while keeping the scope small.
 
 ## How It Works
 
@@ -59,3 +59,7 @@ A few things I'd add to a future version of this project:
 - **A check against commonly used passwords.** A password like `Password1!` technically passes every rule in this program, but it's also one of the most-hacked passwords in existence. A future version would compare the input against a known list of weak or breached passwords.
 
 - **Hidden input as the user types.** Right now the password is visible on screen as it's typed. Python's `getpass` module would hide it, which is closer to how real authentication systems handle password entry.
+
+## Sample Output
+
+![Sample run of the password checker](screenshots/sample-run.png)
