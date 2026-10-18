@@ -4,7 +4,7 @@ A command-line Python program that checks whether a password meets a set of basi
 
 ## About This Project
 
-I built this as part of preparing to apply to Georgia State University's MSIS program, with a planned concentration in Cybersecurity. It's part of a larger effort to build technical projects in areas I want to study further.
+I built this early on, while preparing to apply to Georgia State University's MSIS program. I'm now in the program and focused on cybersecurity. This was one of my first projects, built to turn Python basics into something with real security relevance. It's part of a larger effort to build technical projects in areas I want to keep studying.
 
 The goal was to take concepts from LinkedIn Learning's *Python Essential Training* — variables, loops, conditionals, and boolean logic — and apply them to a problem with real security relevance, while keeping the scope small.
 
